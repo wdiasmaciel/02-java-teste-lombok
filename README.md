@@ -13,7 +13,7 @@ sdk default java 21.0.6-amzn
 ```
 
 ```
-mvn clean install
+Y
 ```
 
 ```
